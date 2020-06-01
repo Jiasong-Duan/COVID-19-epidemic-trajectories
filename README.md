@@ -10,6 +10,7 @@ Software and Packages: The analysis was completed by R software[4], the package 
 Reference:
 [1] Yu, X., Duan, J., Jiang, Y., Zhang, H.(2020). Distinctive trajectories of COVID-19 epidemic by age and gender: a retrospective
 modeling of the epidemic in South Korea. Manuscript sumbitted for publication.
+
 [2] Wood, S. N. (2017). Generalized additive models: an introduction with R. CRC press.
 [3] J. (2020). jihoo-kim/Data-Science-for-COVID-19. Retrieved May 2, 2020, from https://github.com/jihoo-kim/Data-Science-for-COVID-19
 [4] R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
