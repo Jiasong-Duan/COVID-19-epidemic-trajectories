@@ -12,10 +12,17 @@ Reference:
 modeling of the epidemic in South Korea. Manuscript sumbitted for publication.
 
 [2] Wood, S. N. (2017). Generalized additive models: an introduction with R. CRC press.
+
 [3] J. (2020). jihoo-kim/Data-Science-for-COVID-19. Retrieved May 2, 2020, from https://github.com/jihoo-kim/Data-Science-for-COVID-19
+
 [4] R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+
 [5] R Core Team (2020). foreign: Read Data Stored by 'Minitab', 'S', 'SAS', 'SPSS', 'Stata', 'Systat', 'Weka', 'dBase', .... R package version 0.8-75. https://CRAN.R-project.org/package=foreign
+
 [6] Hadley Wickham, Romain François, Lionel Henry and Kirill Müller (2020). dplyr: A Grammar of Data Manipulation. R package version 0.8.5. https://CRAN.R-project.org/package=dplyr
+
 [7] H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
+
 [8] Matt Dowle and Arun Srinivasan (2019). data.table: Extension of `data.frame`. R package version 1.12.8. https://CRAN.R-project.org/package=data.table
+
 [9] Kamvar ZN, Cai J, Pulliam JRC, Schumacher J, Jombart T. Epidemic curves made easy using the R package incidence [version 1; referees: awaiting peer review]. F1000Research 2019, 8:139. URL https://doi.org/10.12688/f1000research.18002.1.
